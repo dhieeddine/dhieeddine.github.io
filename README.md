@@ -62,7 +62,8 @@ Motivated to apply my technical skills in real-world environments and grow throu
 - Secured access with protected session-based authentication  
 
 **Technologies:** Spring Boot, Angular, Java, Typescript
-**Link github repo: ** (https://github.com/dhieeddine/gestion-de-parc_informatique)
+ <a href="https://github.com/dhieeddine/gestion-de-parc_informatique">repo de projet</a>
+
 
 ---
 
@@ -78,18 +79,20 @@ A command-line application for processing CSV files containing full names.
 - **Comparison:** compare lists using similarity metrics and thresholds  
 - **Deduplication:** detect and remove duplicate / near-duplicate names  
 - **Modular architecture:** configurable steps, similarity measures, indexing strategies
-  **link github repo** (https://github.com/dhieeddine/MiniProjetJava)
+  <a href="https://github.com/dhieeddine/MiniprojetJave">repo de projet</a>
+
 
 ---
 
 ##  Certifications
 
 - **Efficient Large Language Model (LLM) Customization – NVIDIA (2024)**
+ 
   
 - **CCNA: Introduction to Networks**
-  (/assets/certifCCNA.pdf)
+ ![EEG Band Discovery](/assets/certifCCNA.pdf)
 - **Hashgraph Developer Course**
-  (/assets/certifHedera.pdf)
+  ![EEG Band Discovery](/assets/certifHedera.pdf)
 
 ---
 
