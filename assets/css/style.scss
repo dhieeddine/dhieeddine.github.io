@@ -1,0 +1,5 @@
+/* Reduce the size of the site logo */
+img[alt="logo"] {
+  width: 150px;   /* change to the size you want */
+  border-radius: 10px; /* optional */
+}
