@@ -87,12 +87,12 @@ A command-line application for processing CSV files containing full names.
 ##  Certifications
 
 - **Efficient Large Language Model (LLM) Customization – NVIDIA (2024)**
- 
+  ![EEG Band Discovery](/assets/certifNvidia.jpg)
   
 - **CCNA: Introduction to Networks**
- ![EEG Band Discovery](/assets/certifCCNA.pdf)
+ ![EEG Band Discovery](/assets/certifCCNA.jpg)
 - **Hashgraph Developer Course**
-  ![EEG Band Discovery](/assets/certifHedera.pdf)
+  ![EEG Band Discovery](/assets/certifHedera.jpg)
 
 ---
 
